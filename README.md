@@ -48,11 +48,15 @@ Fue desarrollado con fines educativos para practicar programación orientada a o
 
 
 
-## Instalación / Requisitos previos
-1. Tener instalado **JDK 17** o superior.  
-2. Configurar correctamente la variable de entorno `JAVA_HOME`.  
-3. Clonar o descargar el proyecto si se tiene en otra plataforma o entorno.  
-4. Abrir la carpeta en tu entorno preferido (VS Code en este caso).
+## Instalación / Requisitos previos 
+| Requisitos                                                               | 
+| ------------------------------------------------------------------------ |
+| tener instalado **JDK 17** o superior.                                   | 
+| Configurar correctamente la variable de entorno `JAVA_HOME`.             | 
+| Clonar o descargar el proyecto si se tiene en otra plataforma o entorno. | 
+|  Abrir la carpeta en tu entorno preferido (VS Code en este caso).        |
+ 
+
 
 
 
@@ -62,4 +66,11 @@ este puede ser uno de sus usos: queremos cargar las ciudades de la provincia de 
 
 ## Ejemplos y capturas
 este es una muestra del codigo y como esta comentado ya que no pude realizar el javadoc
-![parte de codigo](TrabajoDocumentacio/img/Muestra)
+![parte de codigo](img/Muestra.png)
+
+
+## Citas
+> Usé [Markdown Live Preview](https://markdownlivepreview.com/) para validar la sintaxis mientras escribía este README.
+
+# Autores
+_Barragán Betina_
