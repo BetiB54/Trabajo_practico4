@@ -12,15 +12,15 @@ esto permite ver la situciacion de cada provincia en relacion de sus ciudades, p
   
 ```plaintext
 trabajoDocumentacion/
+├── doc/
+├── img/
 ├── src/
 │   ├── Ciudad.java
 │   ├── Provincia.java
 │   └── Administrador.java
 └── README.md
+
 ```
-
-
-
 
 ## Estado del proyecto
 Proyecto **estable** y **funcional** pero siempre puede haber algo para mejorar.  
