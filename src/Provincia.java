@@ -2,7 +2,6 @@ package trabajodocumentacion;
 
 import java.util.ArrayList;
 
-import proyectojunit.Ciudad;
 
 /**
  * Representa una provincia que agrupa un conjunto de ciudades.
